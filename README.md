@@ -1,1 +1,1 @@
-# Mentak-Health-App
+# Mental-Health-App
